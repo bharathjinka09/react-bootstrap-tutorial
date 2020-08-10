@@ -2,7 +2,7 @@
   "name": "react-bootstrap-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://bharathjinka09.github.io/react-bootstrap",
+  "homepage":"https://bharathjinka09.github.io/react-bootstrap-tutorial",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
