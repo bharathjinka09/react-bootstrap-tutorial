@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-tutorial/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-bootstrap-tutorial/static/js/main.b298c15f.chunk.js",
+    "main.js.map": "/react-bootstrap-tutorial/static/js/main.b298c15f.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap-tutorial/static/js/runtime-main.ce7fdf0d.js",
+    "runtime-main.js.map": "/react-bootstrap-tutorial/static/js/runtime-main.ce7fdf0d.js.map",
+    "static/css/2.11829350.chunk.css": "/react-bootstrap-tutorial/static/css/2.11829350.chunk.css",
+    "static/js/2.e48c7bde.chunk.js": "/react-bootstrap-tutorial/static/js/2.e48c7bde.chunk.js",
+    "static/js/2.e48c7bde.chunk.js.map": "/react-bootstrap-tutorial/static/js/2.e48c7bde.chunk.js.map",
+    "index.html": "/react-bootstrap-tutorial/index.html",
+    "precache-manifest.94d37699649a0220b74ea7adf48b9129.js": "/react-bootstrap-tutorial/precache-manifest.94d37699649a0220b74ea7adf48b9129.js",
+    "service-worker.js": "/react-bootstrap-tutorial/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/react-bootstrap-tutorial/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/react-bootstrap-tutorial/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e48c7bde.chunk.js.LICENSE.txt": "/react-bootstrap-tutorial/static/js/2.e48c7bde.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-bootstrap-tutorial/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce7fdf0d.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.e48c7bde.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b298c15f.chunk.js"
+  ]
+}
